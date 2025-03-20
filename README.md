@@ -113,6 +113,17 @@ pyaudio
 pip install -r requirements.txt
  
 ```
+## Output:
+## Image 1
+
+![image](https://github.com/user-attachments/assets/035b4d69-2aad-4e22-a4d2-cee4926090e7)
+
+## Image 2
+![image](https://github.com/user-attachments/assets/5a7e4fd9-5154-44a6-935d-26f5f8afa4b1)
+
+
+## Image 3 (using Real time Speech)
+![image](https://github.com/user-attachments/assets/88597379-d0e3-4ca2-8a52-09647591ed33)
 
 ---
 
