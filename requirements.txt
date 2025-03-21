@@ -6,3 +6,9 @@ scikit-learn
 speechrecognition
 pyaudio
 collections
+python==3.10
+
+
+
+
+
