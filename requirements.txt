@@ -1,12 +1,11 @@
 tensorflow
-streamlit
 librosa
-numpy
 scikit-learn
 speechrecognition
 pyaudio
-python==3.10
-
+numpy==1.24.0
+pandas==1.5.3
+streamlit==1.21.0
 
 
 
