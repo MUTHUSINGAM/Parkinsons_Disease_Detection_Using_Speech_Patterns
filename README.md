@@ -9,8 +9,8 @@
 
 ```
 📂 Parkinson_Audio_Detection
-│── main.py             # Main application script
-│── model.py            # Neural network model definition
+│── main.ipynb             # Main application script
+│── project.py            # streamlit interface
 │── preprocess.py       # Feature extraction and data preprocessing
 │── dataset(name as singam)/            # Audio dataset (healthy & Parkinson samples)
 │── requirements.txt    # Dependencies list
